@@ -16,7 +16,7 @@ st.set_page_config(page_title="Kenyan Language ID", page_icon="🇰🇪", layout
 st.title("🌍 Language Identification System")
 st.markdown("""
 **Course:** CSC423 – Special Topics  
-**Student:** Rachel Mugisha  
+**Student:** Jeff
 **Project:** Identifying English, Swahili, Sheng, Luo, and Mixed code language.
 """)
 st.divider()
